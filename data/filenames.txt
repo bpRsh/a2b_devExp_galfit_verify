@@ -1,0 +1,371 @@
+
+
+
+
+Number =  0
+
+  f814w_devauc_two_comp0.fits      f814w_expdisk_res_two_comp0.fits      f814w_res_two_comp0.fits      f814w_devauc_one_comp0.fits      f814w_expdisk_res_one_comp0.fits      f814w_gal0.fits       f814w_devauc_two_comp2.fits      f814w_expdisk_res_two_comp2.fits      f814w_res_two_comp2.fits      f814w_devauc_one_comp2.fits      f814w_expdisk_res_one_comp2.fits      f814w_gal2.fits       f814w_devauc_two_comp3.fits      f814w_expdisk_res_two_comp3.fits      f814w_res_two_comp3.fits      f814w_devauc_one_comp3.fits      f814w_expdisk_res_one_comp3.fits      f814w_gal3.fits       f814w_devauc_two_comp4.fits      f814w_expdisk_res_two_comp4.fits      f814w_res_two_comp4.fits      f814w_devauc_one_comp4.fits      f814w_expdisk_res_one_comp4.fits      f814w_gal4.fits       f814w_devauc_two_comp5.fits      f814w_expdisk_res_two_comp5.fits      f814w_res_two_comp5.fits      f814w_devauc_one_comp5.fits      f814w_expdisk_res_one_comp5.fits      f814w_gal5.fits    
+
+
+
+
+Number =  6
+
+  f814w_devauc_two_comp6.fits      f814w_expdisk_res_two_comp6.fits      f814w_res_two_comp6.fits      f814w_devauc_one_comp6.fits      f814w_expdisk_res_one_comp6.fits      f814w_gal6.fits       f814w_devauc_two_comp7.fits      f814w_expdisk_res_two_comp7.fits      f814w_res_two_comp7.fits      f814w_devauc_one_comp7.fits      f814w_expdisk_res_one_comp7.fits      f814w_gal7.fits       f814w_devauc_two_comp8.fits      f814w_expdisk_res_two_comp8.fits      f814w_res_two_comp8.fits      f814w_devauc_one_comp8.fits      f814w_expdisk_res_one_comp8.fits      f814w_gal8.fits       f814w_devauc_two_comp9.fits      f814w_expdisk_res_two_comp9.fits      f814w_res_two_comp9.fits      f814w_devauc_one_comp9.fits      f814w_expdisk_res_one_comp9.fits      f814w_gal9.fits       f814w_devauc_two_comp10.fits      f814w_expdisk_res_two_comp10.fits      f814w_res_two_comp10.fits      f814w_devauc_one_comp10.fits      f814w_expdisk_res_one_comp10.fits      f814w_gal10.fits       f814w_devauc_two_comp11.fits      f814w_expdisk_res_two_comp11.fits      f814w_res_two_comp11.fits      f814w_devauc_one_comp11.fits      f814w_expdisk_res_one_comp11.fits      f814w_gal11.fits    
+
+
+
+
+Number =  11
+
+  f814w_devauc_two_comp11.fits      f814w_expdisk_res_two_comp11.fits      f814w_res_two_comp11.fits      f814w_devauc_one_comp11.fits      f814w_expdisk_res_one_comp11.fits      f814w_gal11.fits       f814w_devauc_two_comp12.fits      f814w_expdisk_res_two_comp12.fits      f814w_res_two_comp12.fits      f814w_devauc_one_comp12.fits      f814w_expdisk_res_one_comp12.fits      f814w_gal12.fits       f814w_devauc_two_comp13.fits      f814w_expdisk_res_two_comp13.fits      f814w_res_two_comp13.fits      f814w_devauc_one_comp13.fits      f814w_expdisk_res_one_comp13.fits      f814w_gal13.fits       f814w_devauc_two_comp15.fits      f814w_expdisk_res_two_comp15.fits      f814w_res_two_comp15.fits      f814w_devauc_one_comp15.fits      f814w_expdisk_res_one_comp15.fits      f814w_gal15.fits       f814w_devauc_two_comp16.fits      f814w_expdisk_res_two_comp16.fits      f814w_res_two_comp16.fits      f814w_devauc_one_comp16.fits      f814w_expdisk_res_one_comp16.fits      f814w_gal16.fits    
+
+
+
+
+Number =  17
+
+  f814w_devauc_two_comp17.fits      f814w_expdisk_res_two_comp17.fits      f814w_res_two_comp17.fits      f814w_devauc_one_comp17.fits      f814w_expdisk_res_one_comp17.fits      f814w_gal17.fits       f814w_devauc_two_comp18.fits      f814w_expdisk_res_two_comp18.fits      f814w_res_two_comp18.fits      f814w_devauc_one_comp18.fits      f814w_expdisk_res_one_comp18.fits      f814w_gal18.fits       f814w_devauc_two_comp19.fits      f814w_expdisk_res_two_comp19.fits      f814w_res_two_comp19.fits      f814w_devauc_one_comp19.fits      f814w_expdisk_res_one_comp19.fits      f814w_gal19.fits       f814w_devauc_two_comp20.fits      f814w_expdisk_res_two_comp20.fits      f814w_res_two_comp20.fits      f814w_devauc_one_comp20.fits      f814w_expdisk_res_one_comp20.fits      f814w_gal20.fits       f814w_devauc_two_comp21.fits      f814w_expdisk_res_two_comp21.fits      f814w_res_two_comp21.fits      f814w_devauc_one_comp21.fits      f814w_expdisk_res_one_comp21.fits      f814w_gal21.fits       f814w_devauc_two_comp22.fits      f814w_expdisk_res_two_comp22.fits      f814w_res_two_comp22.fits      f814w_devauc_one_comp22.fits      f814w_expdisk_res_one_comp22.fits      f814w_gal22.fits    
+
+
+
+
+Number =  22
+
+  f814w_devauc_two_comp22.fits      f814w_expdisk_res_two_comp22.fits      f814w_res_two_comp22.fits      f814w_devauc_one_comp22.fits      f814w_expdisk_res_one_comp22.fits      f814w_gal22.fits       f814w_devauc_two_comp23.fits      f814w_expdisk_res_two_comp23.fits      f814w_res_two_comp23.fits      f814w_devauc_one_comp23.fits      f814w_expdisk_res_one_comp23.fits      f814w_gal23.fits       f814w_devauc_two_comp24.fits      f814w_expdisk_res_two_comp24.fits      f814w_res_two_comp24.fits      f814w_devauc_one_comp24.fits      f814w_expdisk_res_one_comp24.fits      f814w_gal24.fits       f814w_devauc_two_comp25.fits      f814w_expdisk_res_two_comp25.fits      f814w_res_two_comp25.fits      f814w_devauc_one_comp25.fits      f814w_expdisk_res_one_comp25.fits      f814w_gal25.fits       f814w_devauc_two_comp26.fits      f814w_expdisk_res_two_comp26.fits      f814w_res_two_comp26.fits      f814w_devauc_one_comp26.fits      f814w_expdisk_res_one_comp26.fits      f814w_gal26.fits       f814w_devauc_two_comp27.fits      f814w_expdisk_res_two_comp27.fits      f814w_res_two_comp27.fits      f814w_devauc_one_comp27.fits      f814w_expdisk_res_one_comp27.fits      f814w_gal27.fits    
+
+
+
+
+Number =  27
+
+  f814w_devauc_two_comp27.fits      f814w_expdisk_res_two_comp27.fits      f814w_res_two_comp27.fits      f814w_devauc_one_comp27.fits      f814w_expdisk_res_one_comp27.fits      f814w_gal27.fits       f814w_devauc_two_comp28.fits      f814w_expdisk_res_two_comp28.fits      f814w_res_two_comp28.fits      f814w_devauc_one_comp28.fits      f814w_expdisk_res_one_comp28.fits      f814w_gal28.fits       f814w_devauc_two_comp29.fits      f814w_expdisk_res_two_comp29.fits      f814w_res_two_comp29.fits      f814w_devauc_one_comp29.fits      f814w_expdisk_res_one_comp29.fits      f814w_gal29.fits       f814w_devauc_two_comp30.fits      f814w_expdisk_res_two_comp30.fits      f814w_res_two_comp30.fits      f814w_devauc_one_comp30.fits      f814w_expdisk_res_one_comp30.fits      f814w_gal30.fits       f814w_devauc_two_comp32.fits      f814w_expdisk_res_two_comp32.fits      f814w_res_two_comp32.fits      f814w_devauc_one_comp32.fits      f814w_expdisk_res_one_comp32.fits      f814w_gal32.fits    
+
+
+
+
+Number =  34
+
+  f814w_devauc_two_comp34.fits      f814w_expdisk_res_two_comp34.fits      f814w_res_two_comp34.fits      f814w_devauc_one_comp34.fits      f814w_expdisk_res_one_comp34.fits      f814w_gal34.fits       f814w_devauc_two_comp35.fits      f814w_expdisk_res_two_comp35.fits      f814w_res_two_comp35.fits      f814w_devauc_one_comp35.fits      f814w_expdisk_res_one_comp35.fits      f814w_gal35.fits       f814w_devauc_two_comp36.fits      f814w_expdisk_res_two_comp36.fits      f814w_res_two_comp36.fits      f814w_devauc_one_comp36.fits      f814w_expdisk_res_one_comp36.fits      f814w_gal36.fits       f814w_devauc_two_comp37.fits      f814w_expdisk_res_two_comp37.fits      f814w_res_two_comp37.fits      f814w_devauc_one_comp37.fits      f814w_expdisk_res_one_comp37.fits      f814w_gal37.fits       f814w_devauc_two_comp39.fits      f814w_expdisk_res_two_comp39.fits      f814w_res_two_comp39.fits      f814w_devauc_one_comp39.fits      f814w_expdisk_res_one_comp39.fits      f814w_gal39.fits    
+
+
+
+
+Number =  42
+
+  f814w_devauc_two_comp42.fits      f814w_expdisk_res_two_comp42.fits      f814w_res_two_comp42.fits      f814w_devauc_one_comp42.fits      f814w_expdisk_res_one_comp42.fits      f814w_gal42.fits       f814w_devauc_two_comp43.fits      f814w_expdisk_res_two_comp43.fits      f814w_res_two_comp43.fits      f814w_devauc_one_comp43.fits      f814w_expdisk_res_one_comp43.fits      f814w_gal43.fits       f814w_devauc_two_comp45.fits      f814w_expdisk_res_two_comp45.fits      f814w_res_two_comp45.fits      f814w_devauc_one_comp45.fits      f814w_expdisk_res_one_comp45.fits      f814w_gal45.fits       f814w_devauc_two_comp47.fits      f814w_expdisk_res_two_comp47.fits      f814w_res_two_comp47.fits      f814w_devauc_one_comp47.fits      f814w_expdisk_res_one_comp47.fits      f814w_gal47.fits    
+
+
+
+
+Number =  49
+
+  f814w_devauc_two_comp49.fits      f814w_expdisk_res_two_comp49.fits      f814w_res_two_comp49.fits      f814w_devauc_one_comp49.fits      f814w_expdisk_res_one_comp49.fits      f814w_gal49.fits       f814w_devauc_two_comp50.fits      f814w_expdisk_res_two_comp50.fits      f814w_res_two_comp50.fits      f814w_devauc_one_comp50.fits      f814w_expdisk_res_one_comp50.fits      f814w_gal50.fits       f814w_devauc_two_comp51.fits      f814w_expdisk_res_two_comp51.fits      f814w_res_two_comp51.fits      f814w_devauc_one_comp51.fits      f814w_expdisk_res_one_comp51.fits      f814w_gal51.fits       f814w_devauc_two_comp53.fits      f814w_expdisk_res_two_comp53.fits      f814w_res_two_comp53.fits      f814w_devauc_one_comp53.fits      f814w_expdisk_res_one_comp53.fits      f814w_gal53.fits    
+
+
+
+
+Number =  57
+
+  f814w_devauc_two_comp57.fits      f814w_expdisk_res_two_comp57.fits      f814w_res_two_comp57.fits      f814w_devauc_one_comp57.fits      f814w_expdisk_res_one_comp57.fits      f814w_gal57.fits       f814w_devauc_two_comp58.fits      f814w_expdisk_res_two_comp58.fits      f814w_res_two_comp58.fits      f814w_devauc_one_comp58.fits      f814w_expdisk_res_one_comp58.fits      f814w_gal58.fits       f814w_devauc_two_comp60.fits      f814w_expdisk_res_two_comp60.fits      f814w_res_two_comp60.fits      f814w_devauc_one_comp60.fits      f814w_expdisk_res_one_comp60.fits      f814w_gal60.fits       f814w_devauc_two_comp61.fits      f814w_expdisk_res_two_comp61.fits      f814w_res_two_comp61.fits      f814w_devauc_one_comp61.fits      f814w_expdisk_res_one_comp61.fits      f814w_gal61.fits       f814w_devauc_two_comp62.fits      f814w_expdisk_res_two_comp62.fits      f814w_res_two_comp62.fits      f814w_devauc_one_comp62.fits      f814w_expdisk_res_one_comp62.fits      f814w_gal62.fits    
+
+
+
+
+Number =  63
+
+  f814w_devauc_two_comp63.fits      f814w_expdisk_res_two_comp63.fits      f814w_res_two_comp63.fits      f814w_devauc_one_comp63.fits      f814w_expdisk_res_one_comp63.fits      f814w_gal63.fits       f814w_devauc_two_comp64.fits      f814w_expdisk_res_two_comp64.fits      f814w_res_two_comp64.fits      f814w_devauc_one_comp64.fits      f814w_expdisk_res_one_comp64.fits      f814w_gal64.fits       f814w_devauc_two_comp65.fits      f814w_expdisk_res_two_comp65.fits      f814w_res_two_comp65.fits      f814w_devauc_one_comp65.fits      f814w_expdisk_res_one_comp65.fits      f814w_gal65.fits       f814w_devauc_two_comp66.fits      f814w_expdisk_res_two_comp66.fits      f814w_res_two_comp66.fits      f814w_devauc_one_comp66.fits      f814w_expdisk_res_one_comp66.fits      f814w_gal66.fits       f814w_devauc_two_comp67.fits      f814w_expdisk_res_two_comp67.fits      f814w_res_two_comp67.fits      f814w_devauc_one_comp67.fits      f814w_expdisk_res_one_comp67.fits      f814w_gal67.fits       f814w_devauc_two_comp68.fits      f814w_expdisk_res_two_comp68.fits      f814w_res_two_comp68.fits      f814w_devauc_one_comp68.fits      f814w_expdisk_res_one_comp68.fits      f814w_gal68.fits    
+
+
+
+
+Number =  68
+
+  f814w_devauc_two_comp68.fits      f814w_expdisk_res_two_comp68.fits      f814w_res_two_comp68.fits      f814w_devauc_one_comp68.fits      f814w_expdisk_res_one_comp68.fits      f814w_gal68.fits       f814w_devauc_two_comp70.fits      f814w_expdisk_res_two_comp70.fits      f814w_res_two_comp70.fits      f814w_devauc_one_comp70.fits      f814w_expdisk_res_one_comp70.fits      f814w_gal70.fits       f814w_devauc_two_comp71.fits      f814w_expdisk_res_two_comp71.fits      f814w_res_two_comp71.fits      f814w_devauc_one_comp71.fits      f814w_expdisk_res_one_comp71.fits      f814w_gal71.fits       f814w_devauc_two_comp72.fits      f814w_expdisk_res_two_comp72.fits      f814w_res_two_comp72.fits      f814w_devauc_one_comp72.fits      f814w_expdisk_res_one_comp72.fits      f814w_gal72.fits    
+
+
+
+
+Number =  75
+
+  f814w_devauc_two_comp75.fits      f814w_expdisk_res_two_comp75.fits      f814w_res_two_comp75.fits      f814w_devauc_one_comp75.fits      f814w_expdisk_res_one_comp75.fits      f814w_gal75.fits       f814w_devauc_two_comp77.fits      f814w_expdisk_res_two_comp77.fits      f814w_res_two_comp77.fits      f814w_devauc_one_comp77.fits      f814w_expdisk_res_one_comp77.fits      f814w_gal77.fits       f814w_devauc_two_comp78.fits      f814w_expdisk_res_two_comp78.fits      f814w_res_two_comp78.fits      f814w_devauc_one_comp78.fits      f814w_expdisk_res_one_comp78.fits      f814w_gal78.fits    
+
+
+
+
+Number =  84
+
+  f814w_devauc_two_comp84.fits      f814w_expdisk_res_two_comp84.fits      f814w_res_two_comp84.fits      f814w_devauc_one_comp84.fits      f814w_expdisk_res_one_comp84.fits      f814w_gal84.fits       f814w_devauc_two_comp86.fits      f814w_expdisk_res_two_comp86.fits      f814w_res_two_comp86.fits      f814w_devauc_one_comp86.fits      f814w_expdisk_res_one_comp86.fits      f814w_gal86.fits       f814w_devauc_two_comp87.fits      f814w_expdisk_res_two_comp87.fits      f814w_res_two_comp87.fits      f814w_devauc_one_comp87.fits      f814w_expdisk_res_one_comp87.fits      f814w_gal87.fits       f814w_devauc_two_comp88.fits      f814w_expdisk_res_two_comp88.fits      f814w_res_two_comp88.fits      f814w_devauc_one_comp88.fits      f814w_expdisk_res_one_comp88.fits      f814w_gal88.fits       f814w_devauc_two_comp89.fits      f814w_expdisk_res_two_comp89.fits      f814w_res_two_comp89.fits      f814w_devauc_one_comp89.fits      f814w_expdisk_res_one_comp89.fits      f814w_gal89.fits    
+
+
+
+
+Number =  91
+
+  f814w_devauc_two_comp91.fits      f814w_expdisk_res_two_comp91.fits      f814w_res_two_comp91.fits      f814w_devauc_one_comp91.fits      f814w_expdisk_res_one_comp91.fits      f814w_gal91.fits       f814w_devauc_two_comp93.fits      f814w_expdisk_res_two_comp93.fits      f814w_res_two_comp93.fits      f814w_devauc_one_comp93.fits      f814w_expdisk_res_one_comp93.fits      f814w_gal93.fits       f814w_devauc_two_comp94.fits      f814w_expdisk_res_two_comp94.fits      f814w_res_two_comp94.fits      f814w_devauc_one_comp94.fits      f814w_expdisk_res_one_comp94.fits      f814w_gal94.fits       f814w_devauc_two_comp96.fits      f814w_expdisk_res_two_comp96.fits      f814w_res_two_comp96.fits      f814w_devauc_one_comp96.fits      f814w_expdisk_res_one_comp96.fits      f814w_gal96.fits    
+
+
+
+
+Number =  98
+
+  f814w_devauc_two_comp98.fits      f814w_expdisk_res_two_comp98.fits      f814w_res_two_comp98.fits      f814w_devauc_one_comp98.fits      f814w_expdisk_res_one_comp98.fits      f814w_gal98.fits       f814w_devauc_two_comp99.fits      f814w_expdisk_res_two_comp99.fits      f814w_res_two_comp99.fits      f814w_devauc_one_comp99.fits      f814w_expdisk_res_one_comp99.fits      f814w_gal99.fits       f814w_devauc_two_comp100.fits      f814w_expdisk_res_two_comp100.fits      f814w_res_two_comp100.fits      f814w_devauc_one_comp100.fits      f814w_expdisk_res_one_comp100.fits      f814w_gal100.fits       f814w_devauc_two_comp101.fits      f814w_expdisk_res_two_comp101.fits      f814w_res_two_comp101.fits      f814w_devauc_one_comp101.fits      f814w_expdisk_res_one_comp101.fits      f814w_gal101.fits       f814w_devauc_two_comp102.fits      f814w_expdisk_res_two_comp102.fits      f814w_res_two_comp102.fits      f814w_devauc_one_comp102.fits      f814w_expdisk_res_one_comp102.fits      f814w_gal102.fits       f814w_devauc_two_comp103.fits      f814w_expdisk_res_two_comp103.fits      f814w_res_two_comp103.fits      f814w_devauc_one_comp103.fits      f814w_expdisk_res_one_comp103.fits      f814w_gal103.fits    
+
+
+
+
+Number =  103
+
+  f814w_devauc_two_comp103.fits      f814w_expdisk_res_two_comp103.fits      f814w_res_two_comp103.fits      f814w_devauc_one_comp103.fits      f814w_expdisk_res_one_comp103.fits      f814w_gal103.fits       f814w_devauc_two_comp104.fits      f814w_expdisk_res_two_comp104.fits      f814w_res_two_comp104.fits      f814w_devauc_one_comp104.fits      f814w_expdisk_res_one_comp104.fits      f814w_gal104.fits       f814w_devauc_two_comp105.fits      f814w_expdisk_res_two_comp105.fits      f814w_res_two_comp105.fits      f814w_devauc_one_comp105.fits      f814w_expdisk_res_one_comp105.fits      f814w_gal105.fits       f814w_devauc_two_comp106.fits      f814w_expdisk_res_two_comp106.fits      f814w_res_two_comp106.fits      f814w_devauc_one_comp106.fits      f814w_expdisk_res_one_comp106.fits      f814w_gal106.fits       f814w_devauc_two_comp107.fits      f814w_expdisk_res_two_comp107.fits      f814w_res_two_comp107.fits      f814w_devauc_one_comp107.fits      f814w_expdisk_res_one_comp107.fits      f814w_gal107.fits       f814w_devauc_two_comp108.fits      f814w_expdisk_res_two_comp108.fits      f814w_res_two_comp108.fits      f814w_devauc_one_comp108.fits      f814w_expdisk_res_one_comp108.fits      f814w_gal108.fits    
+
+
+
+
+Number =  108
+
+  f814w_devauc_two_comp108.fits      f814w_expdisk_res_two_comp108.fits      f814w_res_two_comp108.fits      f814w_devauc_one_comp108.fits      f814w_expdisk_res_one_comp108.fits      f814w_gal108.fits       f814w_devauc_two_comp109.fits      f814w_expdisk_res_two_comp109.fits      f814w_res_two_comp109.fits      f814w_devauc_one_comp109.fits      f814w_expdisk_res_one_comp109.fits      f814w_gal109.fits       f814w_devauc_two_comp110.fits      f814w_expdisk_res_two_comp110.fits      f814w_res_two_comp110.fits      f814w_devauc_one_comp110.fits      f814w_expdisk_res_one_comp110.fits      f814w_gal110.fits       f814w_devauc_two_comp111.fits      f814w_expdisk_res_two_comp111.fits      f814w_res_two_comp111.fits      f814w_devauc_one_comp111.fits      f814w_expdisk_res_one_comp111.fits      f814w_gal111.fits       f814w_devauc_two_comp112.fits      f814w_expdisk_res_two_comp112.fits      f814w_res_two_comp112.fits      f814w_devauc_one_comp112.fits      f814w_expdisk_res_one_comp112.fits      f814w_gal112.fits       f814w_devauc_two_comp113.fits      f814w_expdisk_res_two_comp113.fits      f814w_res_two_comp113.fits      f814w_devauc_one_comp113.fits      f814w_expdisk_res_one_comp113.fits      f814w_gal113.fits    
+
+
+
+
+Number =  113
+
+  f814w_devauc_two_comp113.fits      f814w_expdisk_res_two_comp113.fits      f814w_res_two_comp113.fits      f814w_devauc_one_comp113.fits      f814w_expdisk_res_one_comp113.fits      f814w_gal113.fits       f814w_devauc_two_comp114.fits      f814w_expdisk_res_two_comp114.fits      f814w_res_two_comp114.fits      f814w_devauc_one_comp114.fits      f814w_expdisk_res_one_comp114.fits      f814w_gal114.fits       f814w_devauc_two_comp115.fits      f814w_expdisk_res_two_comp115.fits      f814w_res_two_comp115.fits      f814w_devauc_one_comp115.fits      f814w_expdisk_res_one_comp115.fits      f814w_gal115.fits       f814w_devauc_two_comp116.fits      f814w_expdisk_res_two_comp116.fits      f814w_res_two_comp116.fits      f814w_devauc_one_comp116.fits      f814w_expdisk_res_one_comp116.fits      f814w_gal116.fits       f814w_devauc_two_comp117.fits      f814w_expdisk_res_two_comp117.fits      f814w_res_two_comp117.fits      f814w_devauc_one_comp117.fits      f814w_expdisk_res_one_comp117.fits      f814w_gal117.fits       f814w_devauc_two_comp118.fits      f814w_expdisk_res_two_comp118.fits      f814w_res_two_comp118.fits      f814w_devauc_one_comp118.fits      f814w_expdisk_res_one_comp118.fits      f814w_gal118.fits    
+
+
+
+
+Number =  118
+
+  f814w_devauc_two_comp118.fits      f814w_expdisk_res_two_comp118.fits      f814w_res_two_comp118.fits      f814w_devauc_one_comp118.fits      f814w_expdisk_res_one_comp118.fits      f814w_gal118.fits       f814w_devauc_two_comp119.fits      f814w_expdisk_res_two_comp119.fits      f814w_res_two_comp119.fits      f814w_devauc_one_comp119.fits      f814w_expdisk_res_one_comp119.fits      f814w_gal119.fits       f814w_devauc_two_comp120.fits      f814w_expdisk_res_two_comp120.fits      f814w_res_two_comp120.fits      f814w_devauc_one_comp120.fits      f814w_expdisk_res_one_comp120.fits      f814w_gal120.fits       f814w_devauc_two_comp121.fits      f814w_expdisk_res_two_comp121.fits      f814w_res_two_comp121.fits      f814w_devauc_one_comp121.fits      f814w_expdisk_res_one_comp121.fits      f814w_gal121.fits       f814w_devauc_two_comp122.fits      f814w_expdisk_res_two_comp122.fits      f814w_res_two_comp122.fits      f814w_devauc_one_comp122.fits      f814w_expdisk_res_one_comp122.fits      f814w_gal122.fits       f814w_devauc_two_comp123.fits      f814w_expdisk_res_two_comp123.fits      f814w_res_two_comp123.fits      f814w_devauc_one_comp123.fits      f814w_expdisk_res_one_comp123.fits      f814w_gal123.fits    
+
+
+
+
+Number =  123
+
+  f814w_devauc_two_comp123.fits      f814w_expdisk_res_two_comp123.fits      f814w_res_two_comp123.fits      f814w_devauc_one_comp123.fits      f814w_expdisk_res_one_comp123.fits      f814w_gal123.fits       f814w_devauc_two_comp124.fits      f814w_expdisk_res_two_comp124.fits      f814w_res_two_comp124.fits      f814w_devauc_one_comp124.fits      f814w_expdisk_res_one_comp124.fits      f814w_gal124.fits       f814w_devauc_two_comp125.fits      f814w_expdisk_res_two_comp125.fits      f814w_res_two_comp125.fits      f814w_devauc_one_comp125.fits      f814w_expdisk_res_one_comp125.fits      f814w_gal125.fits       f814w_devauc_two_comp126.fits      f814w_expdisk_res_two_comp126.fits      f814w_res_two_comp126.fits      f814w_devauc_one_comp126.fits      f814w_expdisk_res_one_comp126.fits      f814w_gal126.fits       f814w_devauc_two_comp127.fits      f814w_expdisk_res_two_comp127.fits      f814w_res_two_comp127.fits      f814w_devauc_one_comp127.fits      f814w_expdisk_res_one_comp127.fits      f814w_gal127.fits       f814w_devauc_two_comp128.fits      f814w_expdisk_res_two_comp128.fits      f814w_res_two_comp128.fits      f814w_devauc_one_comp128.fits      f814w_expdisk_res_one_comp128.fits      f814w_gal128.fits    
+
+
+
+
+Number =  128
+
+  f814w_devauc_two_comp128.fits      f814w_expdisk_res_two_comp128.fits      f814w_res_two_comp128.fits      f814w_devauc_one_comp128.fits      f814w_expdisk_res_one_comp128.fits      f814w_gal128.fits       f814w_devauc_two_comp129.fits      f814w_expdisk_res_two_comp129.fits      f814w_res_two_comp129.fits      f814w_devauc_one_comp129.fits      f814w_expdisk_res_one_comp129.fits      f814w_gal129.fits       f814w_devauc_two_comp130.fits      f814w_expdisk_res_two_comp130.fits      f814w_res_two_comp130.fits      f814w_devauc_one_comp130.fits      f814w_expdisk_res_one_comp130.fits      f814w_gal130.fits       f814w_devauc_two_comp131.fits      f814w_expdisk_res_two_comp131.fits      f814w_res_two_comp131.fits      f814w_devauc_one_comp131.fits      f814w_expdisk_res_one_comp131.fits      f814w_gal131.fits       f814w_devauc_two_comp132.fits      f814w_expdisk_res_two_comp132.fits      f814w_res_two_comp132.fits      f814w_devauc_one_comp132.fits      f814w_expdisk_res_one_comp132.fits      f814w_gal132.fits       f814w_devauc_two_comp133.fits      f814w_expdisk_res_two_comp133.fits      f814w_res_two_comp133.fits      f814w_devauc_one_comp133.fits      f814w_expdisk_res_one_comp133.fits      f814w_gal133.fits    
+
+
+
+
+Number =  133
+
+  f814w_devauc_two_comp133.fits      f814w_expdisk_res_two_comp133.fits      f814w_res_two_comp133.fits      f814w_devauc_one_comp133.fits      f814w_expdisk_res_one_comp133.fits      f814w_gal133.fits       f814w_devauc_two_comp134.fits      f814w_expdisk_res_two_comp134.fits      f814w_res_two_comp134.fits      f814w_devauc_one_comp134.fits      f814w_expdisk_res_one_comp134.fits      f814w_gal134.fits       f814w_devauc_two_comp135.fits      f814w_expdisk_res_two_comp135.fits      f814w_res_two_comp135.fits      f814w_devauc_one_comp135.fits      f814w_expdisk_res_one_comp135.fits      f814w_gal135.fits       f814w_devauc_two_comp136.fits      f814w_expdisk_res_two_comp136.fits      f814w_res_two_comp136.fits      f814w_devauc_one_comp136.fits      f814w_expdisk_res_one_comp136.fits      f814w_gal136.fits       f814w_devauc_two_comp137.fits      f814w_expdisk_res_two_comp137.fits      f814w_res_two_comp137.fits      f814w_devauc_one_comp137.fits      f814w_expdisk_res_one_comp137.fits      f814w_gal137.fits    
+
+
+
+
+Number =  140
+
+  f814w_devauc_two_comp140.fits      f814w_expdisk_res_two_comp140.fits      f814w_res_two_comp140.fits      f814w_devauc_one_comp140.fits      f814w_expdisk_res_one_comp140.fits      f814w_gal140.fits       f814w_devauc_two_comp142.fits      f814w_expdisk_res_two_comp142.fits      f814w_res_two_comp142.fits      f814w_devauc_one_comp142.fits      f814w_expdisk_res_one_comp142.fits      f814w_gal142.fits       f814w_devauc_two_comp143.fits      f814w_expdisk_res_two_comp143.fits      f814w_res_two_comp143.fits      f814w_devauc_one_comp143.fits      f814w_expdisk_res_one_comp143.fits      f814w_gal143.fits       f814w_devauc_two_comp144.fits      f814w_expdisk_res_two_comp144.fits      f814w_res_two_comp144.fits      f814w_devauc_one_comp144.fits      f814w_expdisk_res_one_comp144.fits      f814w_gal144.fits       f814w_devauc_two_comp145.fits      f814w_expdisk_res_two_comp145.fits      f814w_res_two_comp145.fits      f814w_devauc_one_comp145.fits      f814w_expdisk_res_one_comp145.fits      f814w_gal145.fits    
+
+
+
+
+Number =  146
+
+  f814w_devauc_two_comp146.fits      f814w_expdisk_res_two_comp146.fits      f814w_res_two_comp146.fits      f814w_devauc_one_comp146.fits      f814w_expdisk_res_one_comp146.fits      f814w_gal146.fits       f814w_devauc_two_comp147.fits      f814w_expdisk_res_two_comp147.fits      f814w_res_two_comp147.fits      f814w_devauc_one_comp147.fits      f814w_expdisk_res_one_comp147.fits      f814w_gal147.fits       f814w_devauc_two_comp148.fits      f814w_expdisk_res_two_comp148.fits      f814w_res_two_comp148.fits      f814w_devauc_one_comp148.fits      f814w_expdisk_res_one_comp148.fits      f814w_gal148.fits       f814w_devauc_two_comp149.fits      f814w_expdisk_res_two_comp149.fits      f814w_res_two_comp149.fits      f814w_devauc_one_comp149.fits      f814w_expdisk_res_one_comp149.fits      f814w_gal149.fits       f814w_devauc_two_comp150.fits      f814w_expdisk_res_two_comp150.fits      f814w_res_two_comp150.fits      f814w_devauc_one_comp150.fits      f814w_expdisk_res_one_comp150.fits      f814w_gal150.fits       f814w_devauc_two_comp151.fits      f814w_expdisk_res_two_comp151.fits      f814w_res_two_comp151.fits      f814w_devauc_one_comp151.fits      f814w_expdisk_res_one_comp151.fits      f814w_gal151.fits    
+
+
+
+
+Number =  151
+
+  f814w_devauc_two_comp151.fits      f814w_expdisk_res_two_comp151.fits      f814w_res_two_comp151.fits      f814w_devauc_one_comp151.fits      f814w_expdisk_res_one_comp151.fits      f814w_gal151.fits       f814w_devauc_two_comp152.fits      f814w_expdisk_res_two_comp152.fits      f814w_res_two_comp152.fits      f814w_devauc_one_comp152.fits      f814w_expdisk_res_one_comp152.fits      f814w_gal152.fits       f814w_devauc_two_comp153.fits      f814w_expdisk_res_two_comp153.fits      f814w_res_two_comp153.fits      f814w_devauc_one_comp153.fits      f814w_expdisk_res_one_comp153.fits      f814w_gal153.fits       f814w_devauc_two_comp154.fits      f814w_expdisk_res_two_comp154.fits      f814w_res_two_comp154.fits      f814w_devauc_one_comp154.fits      f814w_expdisk_res_one_comp154.fits      f814w_gal154.fits       f814w_devauc_two_comp155.fits      f814w_expdisk_res_two_comp155.fits      f814w_res_two_comp155.fits      f814w_devauc_one_comp155.fits      f814w_expdisk_res_one_comp155.fits      f814w_gal155.fits       f814w_devauc_two_comp156.fits      f814w_expdisk_res_two_comp156.fits      f814w_res_two_comp156.fits      f814w_devauc_one_comp156.fits      f814w_expdisk_res_one_comp156.fits      f814w_gal156.fits    
+
+
+
+
+Number =  156
+
+  f814w_devauc_two_comp156.fits      f814w_expdisk_res_two_comp156.fits      f814w_res_two_comp156.fits      f814w_devauc_one_comp156.fits      f814w_expdisk_res_one_comp156.fits      f814w_gal156.fits       f814w_devauc_two_comp157.fits      f814w_expdisk_res_two_comp157.fits      f814w_res_two_comp157.fits      f814w_devauc_one_comp157.fits      f814w_expdisk_res_one_comp157.fits      f814w_gal157.fits       f814w_devauc_two_comp158.fits      f814w_expdisk_res_two_comp158.fits      f814w_res_two_comp158.fits      f814w_devauc_one_comp158.fits      f814w_expdisk_res_one_comp158.fits      f814w_gal158.fits       f814w_devauc_two_comp159.fits      f814w_expdisk_res_two_comp159.fits      f814w_res_two_comp159.fits      f814w_devauc_one_comp159.fits      f814w_expdisk_res_one_comp159.fits      f814w_gal159.fits       f814w_devauc_two_comp160.fits      f814w_expdisk_res_two_comp160.fits      f814w_res_two_comp160.fits      f814w_devauc_one_comp160.fits      f814w_expdisk_res_one_comp160.fits      f814w_gal160.fits       f814w_devauc_two_comp161.fits      f814w_expdisk_res_two_comp161.fits      f814w_res_two_comp161.fits      f814w_devauc_one_comp161.fits      f814w_expdisk_res_one_comp161.fits      f814w_gal161.fits    
+
+
+
+
+Number =  161
+
+  f814w_devauc_two_comp161.fits      f814w_expdisk_res_two_comp161.fits      f814w_res_two_comp161.fits      f814w_devauc_one_comp161.fits      f814w_expdisk_res_one_comp161.fits      f814w_gal161.fits       f814w_devauc_two_comp162.fits      f814w_expdisk_res_two_comp162.fits      f814w_res_two_comp162.fits      f814w_devauc_one_comp162.fits      f814w_expdisk_res_one_comp162.fits      f814w_gal162.fits       f814w_devauc_two_comp163.fits      f814w_expdisk_res_two_comp163.fits      f814w_res_two_comp163.fits      f814w_devauc_one_comp163.fits      f814w_expdisk_res_one_comp163.fits      f814w_gal163.fits       f814w_devauc_two_comp164.fits      f814w_expdisk_res_two_comp164.fits      f814w_res_two_comp164.fits      f814w_devauc_one_comp164.fits      f814w_expdisk_res_one_comp164.fits      f814w_gal164.fits       f814w_devauc_two_comp165.fits      f814w_expdisk_res_two_comp165.fits      f814w_res_two_comp165.fits      f814w_devauc_one_comp165.fits      f814w_expdisk_res_one_comp165.fits      f814w_gal165.fits    
+
+
+
+
+Number =  167
+
+  f814w_devauc_two_comp167.fits      f814w_expdisk_res_two_comp167.fits      f814w_res_two_comp167.fits      f814w_devauc_one_comp167.fits      f814w_expdisk_res_one_comp167.fits      f814w_gal167.fits       f814w_devauc_two_comp168.fits      f814w_expdisk_res_two_comp168.fits      f814w_res_two_comp168.fits      f814w_devauc_one_comp168.fits      f814w_expdisk_res_one_comp168.fits      f814w_gal168.fits       f814w_devauc_two_comp169.fits      f814w_expdisk_res_two_comp169.fits      f814w_res_two_comp169.fits      f814w_devauc_one_comp169.fits      f814w_expdisk_res_one_comp169.fits      f814w_gal169.fits       f814w_devauc_two_comp170.fits      f814w_expdisk_res_two_comp170.fits      f814w_res_two_comp170.fits      f814w_devauc_one_comp170.fits      f814w_expdisk_res_one_comp170.fits      f814w_gal170.fits       f814w_devauc_two_comp171.fits      f814w_expdisk_res_two_comp171.fits      f814w_res_two_comp171.fits      f814w_devauc_one_comp171.fits      f814w_expdisk_res_one_comp171.fits      f814w_gal171.fits       f814w_devauc_two_comp172.fits      f814w_expdisk_res_two_comp172.fits      f814w_res_two_comp172.fits      f814w_devauc_one_comp172.fits      f814w_expdisk_res_one_comp172.fits      f814w_gal172.fits    
+
+
+
+
+Number =  172
+
+  f814w_devauc_two_comp172.fits      f814w_expdisk_res_two_comp172.fits      f814w_res_two_comp172.fits      f814w_devauc_one_comp172.fits      f814w_expdisk_res_one_comp172.fits      f814w_gal172.fits       f814w_devauc_two_comp173.fits      f814w_expdisk_res_two_comp173.fits      f814w_res_two_comp173.fits      f814w_devauc_one_comp173.fits      f814w_expdisk_res_one_comp173.fits      f814w_gal173.fits       f814w_devauc_two_comp174.fits      f814w_expdisk_res_two_comp174.fits      f814w_res_two_comp174.fits      f814w_devauc_one_comp174.fits      f814w_expdisk_res_one_comp174.fits      f814w_gal174.fits       f814w_devauc_two_comp175.fits      f814w_expdisk_res_two_comp175.fits      f814w_res_two_comp175.fits      f814w_devauc_one_comp175.fits      f814w_expdisk_res_one_comp175.fits      f814w_gal175.fits       f814w_devauc_two_comp176.fits      f814w_expdisk_res_two_comp176.fits      f814w_res_two_comp176.fits      f814w_devauc_one_comp176.fits      f814w_expdisk_res_one_comp176.fits      f814w_gal176.fits       f814w_devauc_two_comp177.fits      f814w_expdisk_res_two_comp177.fits      f814w_res_two_comp177.fits      f814w_devauc_one_comp177.fits      f814w_expdisk_res_one_comp177.fits      f814w_gal177.fits    
+
+
+
+
+Number =  177
+
+  f814w_devauc_two_comp177.fits      f814w_expdisk_res_two_comp177.fits      f814w_res_two_comp177.fits      f814w_devauc_one_comp177.fits      f814w_expdisk_res_one_comp177.fits      f814w_gal177.fits       f814w_devauc_two_comp178.fits      f814w_expdisk_res_two_comp178.fits      f814w_res_two_comp178.fits      f814w_devauc_one_comp178.fits      f814w_expdisk_res_one_comp178.fits      f814w_gal178.fits       f814w_devauc_two_comp179.fits      f814w_expdisk_res_two_comp179.fits      f814w_res_two_comp179.fits      f814w_devauc_one_comp179.fits      f814w_expdisk_res_one_comp179.fits      f814w_gal179.fits       f814w_devauc_two_comp182.fits      f814w_expdisk_res_two_comp182.fits      f814w_res_two_comp182.fits      f814w_devauc_one_comp182.fits      f814w_expdisk_res_one_comp182.fits      f814w_gal182.fits    
+
+
+
+
+Number =  184
+
+  f814w_devauc_two_comp184.fits      f814w_expdisk_res_two_comp184.fits      f814w_res_two_comp184.fits      f814w_devauc_one_comp184.fits      f814w_expdisk_res_one_comp184.fits      f814w_gal184.fits       f814w_devauc_two_comp185.fits      f814w_expdisk_res_two_comp185.fits      f814w_res_two_comp185.fits      f814w_devauc_one_comp185.fits      f814w_expdisk_res_one_comp185.fits      f814w_gal185.fits       f814w_devauc_two_comp186.fits      f814w_expdisk_res_two_comp186.fits      f814w_res_two_comp186.fits      f814w_devauc_one_comp186.fits      f814w_expdisk_res_one_comp186.fits      f814w_gal186.fits       f814w_devauc_two_comp187.fits      f814w_expdisk_res_two_comp187.fits      f814w_res_two_comp187.fits      f814w_devauc_one_comp187.fits      f814w_expdisk_res_one_comp187.fits      f814w_gal187.fits       f814w_devauc_two_comp188.fits      f814w_expdisk_res_two_comp188.fits      f814w_res_two_comp188.fits      f814w_devauc_one_comp188.fits      f814w_expdisk_res_one_comp188.fits      f814w_gal188.fits       f814w_devauc_two_comp189.fits      f814w_expdisk_res_two_comp189.fits      f814w_res_two_comp189.fits      f814w_devauc_one_comp189.fits      f814w_expdisk_res_one_comp189.fits      f814w_gal189.fits    
+
+
+
+
+Number =  189
+
+  f814w_devauc_two_comp189.fits      f814w_expdisk_res_two_comp189.fits      f814w_res_two_comp189.fits      f814w_devauc_one_comp189.fits      f814w_expdisk_res_one_comp189.fits      f814w_gal189.fits       f814w_devauc_two_comp190.fits      f814w_expdisk_res_two_comp190.fits      f814w_res_two_comp190.fits      f814w_devauc_one_comp190.fits      f814w_expdisk_res_one_comp190.fits      f814w_gal190.fits       f814w_devauc_two_comp191.fits      f814w_expdisk_res_two_comp191.fits      f814w_res_two_comp191.fits      f814w_devauc_one_comp191.fits      f814w_expdisk_res_one_comp191.fits      f814w_gal191.fits       f814w_devauc_two_comp192.fits      f814w_expdisk_res_two_comp192.fits      f814w_res_two_comp192.fits      f814w_devauc_one_comp192.fits      f814w_expdisk_res_one_comp192.fits      f814w_gal192.fits       f814w_devauc_two_comp193.fits      f814w_expdisk_res_two_comp193.fits      f814w_res_two_comp193.fits      f814w_devauc_one_comp193.fits      f814w_expdisk_res_one_comp193.fits      f814w_gal193.fits       f814w_devauc_two_comp194.fits      f814w_expdisk_res_two_comp194.fits      f814w_res_two_comp194.fits      f814w_devauc_one_comp194.fits      f814w_expdisk_res_one_comp194.fits      f814w_gal194.fits    
+
+
+
+
+Number =  194
+
+  f814w_devauc_two_comp194.fits      f814w_expdisk_res_two_comp194.fits      f814w_res_two_comp194.fits      f814w_devauc_one_comp194.fits      f814w_expdisk_res_one_comp194.fits      f814w_gal194.fits       f814w_devauc_two_comp195.fits      f814w_expdisk_res_two_comp195.fits      f814w_res_two_comp195.fits      f814w_devauc_one_comp195.fits      f814w_expdisk_res_one_comp195.fits      f814w_gal195.fits       f814w_devauc_two_comp196.fits      f814w_expdisk_res_two_comp196.fits      f814w_res_two_comp196.fits      f814w_devauc_one_comp196.fits      f814w_expdisk_res_one_comp196.fits      f814w_gal196.fits       f814w_devauc_two_comp197.fits      f814w_expdisk_res_two_comp197.fits      f814w_res_two_comp197.fits      f814w_devauc_one_comp197.fits      f814w_expdisk_res_one_comp197.fits      f814w_gal197.fits       f814w_devauc_two_comp198.fits      f814w_expdisk_res_two_comp198.fits      f814w_res_two_comp198.fits      f814w_devauc_one_comp198.fits      f814w_expdisk_res_one_comp198.fits      f814w_gal198.fits       f814w_devauc_two_comp199.fits      f814w_expdisk_res_two_comp199.fits      f814w_res_two_comp199.fits      f814w_devauc_one_comp199.fits      f814w_expdisk_res_one_comp199.fits      f814w_gal199.fits    
+
+
+
+
+Number =  199
+
+  f814w_devauc_two_comp199.fits      f814w_expdisk_res_two_comp199.fits      f814w_res_two_comp199.fits      f814w_devauc_one_comp199.fits      f814w_expdisk_res_one_comp199.fits      f814w_gal199.fits       f814w_devauc_two_comp201.fits      f814w_expdisk_res_two_comp201.fits      f814w_res_two_comp201.fits      f814w_devauc_one_comp201.fits      f814w_expdisk_res_one_comp201.fits      f814w_gal201.fits       f814w_devauc_two_comp202.fits      f814w_expdisk_res_two_comp202.fits      f814w_res_two_comp202.fits      f814w_devauc_one_comp202.fits      f814w_expdisk_res_one_comp202.fits      f814w_gal202.fits       f814w_devauc_two_comp204.fits      f814w_expdisk_res_two_comp204.fits      f814w_res_two_comp204.fits      f814w_devauc_one_comp204.fits      f814w_expdisk_res_one_comp204.fits      f814w_gal204.fits    
+
+
+
+
+Number =  206
+
+  f814w_devauc_two_comp206.fits      f814w_expdisk_res_two_comp206.fits      f814w_res_two_comp206.fits      f814w_devauc_one_comp206.fits      f814w_expdisk_res_one_comp206.fits      f814w_gal206.fits       f814w_devauc_two_comp207.fits      f814w_expdisk_res_two_comp207.fits      f814w_res_two_comp207.fits      f814w_devauc_one_comp207.fits      f814w_expdisk_res_one_comp207.fits      f814w_gal207.fits       f814w_devauc_two_comp208.fits      f814w_expdisk_res_two_comp208.fits      f814w_res_two_comp208.fits      f814w_devauc_one_comp208.fits      f814w_expdisk_res_one_comp208.fits      f814w_gal208.fits       f814w_devauc_two_comp209.fits      f814w_expdisk_res_two_comp209.fits      f814w_res_two_comp209.fits      f814w_devauc_one_comp209.fits      f814w_expdisk_res_one_comp209.fits      f814w_gal209.fits       f814w_devauc_two_comp210.fits      f814w_expdisk_res_two_comp210.fits      f814w_res_two_comp210.fits      f814w_devauc_one_comp210.fits      f814w_expdisk_res_one_comp210.fits      f814w_gal210.fits       f814w_devauc_two_comp211.fits      f814w_expdisk_res_two_comp211.fits      f814w_res_two_comp211.fits      f814w_devauc_one_comp211.fits      f814w_expdisk_res_one_comp211.fits      f814w_gal211.fits    
+
+
+
+
+Number =  211
+
+  f814w_devauc_two_comp211.fits      f814w_expdisk_res_two_comp211.fits      f814w_res_two_comp211.fits      f814w_devauc_one_comp211.fits      f814w_expdisk_res_one_comp211.fits      f814w_gal211.fits       f814w_devauc_two_comp212.fits      f814w_expdisk_res_two_comp212.fits      f814w_res_two_comp212.fits      f814w_devauc_one_comp212.fits      f814w_expdisk_res_one_comp212.fits      f814w_gal212.fits       f814w_devauc_two_comp213.fits      f814w_expdisk_res_two_comp213.fits      f814w_res_two_comp213.fits      f814w_devauc_one_comp213.fits      f814w_expdisk_res_one_comp213.fits      f814w_gal213.fits       f814w_devauc_two_comp214.fits      f814w_expdisk_res_two_comp214.fits      f814w_res_two_comp214.fits      f814w_devauc_one_comp214.fits      f814w_expdisk_res_one_comp214.fits      f814w_gal214.fits       f814w_devauc_two_comp215.fits      f814w_expdisk_res_two_comp215.fits      f814w_res_two_comp215.fits      f814w_devauc_one_comp215.fits      f814w_expdisk_res_one_comp215.fits      f814w_gal215.fits       f814w_devauc_two_comp216.fits      f814w_expdisk_res_two_comp216.fits      f814w_res_two_comp216.fits      f814w_devauc_one_comp216.fits      f814w_expdisk_res_one_comp216.fits      f814w_gal216.fits    
+
+
+
+
+Number =  216
+
+  f814w_devauc_two_comp216.fits      f814w_expdisk_res_two_comp216.fits      f814w_res_two_comp216.fits      f814w_devauc_one_comp216.fits      f814w_expdisk_res_one_comp216.fits      f814w_gal216.fits       f814w_devauc_two_comp217.fits      f814w_expdisk_res_two_comp217.fits      f814w_res_two_comp217.fits      f814w_devauc_one_comp217.fits      f814w_expdisk_res_one_comp217.fits      f814w_gal217.fits       f814w_devauc_two_comp219.fits      f814w_expdisk_res_two_comp219.fits      f814w_res_two_comp219.fits      f814w_devauc_one_comp219.fits      f814w_expdisk_res_one_comp219.fits      f814w_gal219.fits       f814w_devauc_two_comp220.fits      f814w_expdisk_res_two_comp220.fits      f814w_res_two_comp220.fits      f814w_devauc_one_comp220.fits      f814w_expdisk_res_one_comp220.fits      f814w_gal220.fits       f814w_devauc_two_comp221.fits      f814w_expdisk_res_two_comp221.fits      f814w_res_two_comp221.fits      f814w_devauc_one_comp221.fits      f814w_expdisk_res_one_comp221.fits      f814w_gal221.fits    
+
+
+
+
+Number =  222
+
+  f814w_devauc_two_comp222.fits      f814w_expdisk_res_two_comp222.fits      f814w_res_two_comp222.fits      f814w_devauc_one_comp222.fits      f814w_expdisk_res_one_comp222.fits      f814w_gal222.fits       f814w_devauc_two_comp223.fits      f814w_expdisk_res_two_comp223.fits      f814w_res_two_comp223.fits      f814w_devauc_one_comp223.fits      f814w_expdisk_res_one_comp223.fits      f814w_gal223.fits       f814w_devauc_two_comp224.fits      f814w_expdisk_res_two_comp224.fits      f814w_res_two_comp224.fits      f814w_devauc_one_comp224.fits      f814w_expdisk_res_one_comp224.fits      f814w_gal224.fits       f814w_devauc_two_comp225.fits      f814w_expdisk_res_two_comp225.fits      f814w_res_two_comp225.fits      f814w_devauc_one_comp225.fits      f814w_expdisk_res_one_comp225.fits      f814w_gal225.fits       f814w_devauc_two_comp226.fits      f814w_expdisk_res_two_comp226.fits      f814w_res_two_comp226.fits      f814w_devauc_one_comp226.fits      f814w_expdisk_res_one_comp226.fits      f814w_gal226.fits       f814w_devauc_two_comp227.fits      f814w_expdisk_res_two_comp227.fits      f814w_res_two_comp227.fits      f814w_devauc_one_comp227.fits      f814w_expdisk_res_one_comp227.fits      f814w_gal227.fits    
+
+
+
+
+Number =  227
+
+  f814w_devauc_two_comp227.fits      f814w_expdisk_res_two_comp227.fits      f814w_res_two_comp227.fits      f814w_devauc_one_comp227.fits      f814w_expdisk_res_one_comp227.fits      f814w_gal227.fits       f814w_devauc_two_comp228.fits      f814w_expdisk_res_two_comp228.fits      f814w_res_two_comp228.fits      f814w_devauc_one_comp228.fits      f814w_expdisk_res_one_comp228.fits      f814w_gal228.fits       f814w_devauc_two_comp229.fits      f814w_expdisk_res_two_comp229.fits      f814w_res_two_comp229.fits      f814w_devauc_one_comp229.fits      f814w_expdisk_res_one_comp229.fits      f814w_gal229.fits       f814w_devauc_two_comp231.fits      f814w_expdisk_res_two_comp231.fits      f814w_res_two_comp231.fits      f814w_devauc_one_comp231.fits      f814w_expdisk_res_one_comp231.fits      f814w_gal231.fits       f814w_devauc_two_comp232.fits      f814w_expdisk_res_two_comp232.fits      f814w_res_two_comp232.fits      f814w_devauc_one_comp232.fits      f814w_expdisk_res_one_comp232.fits      f814w_gal232.fits    
+
+
+
+
+Number =  233
+
+  f814w_devauc_two_comp233.fits      f814w_expdisk_res_two_comp233.fits      f814w_res_two_comp233.fits      f814w_devauc_one_comp233.fits      f814w_expdisk_res_one_comp233.fits      f814w_gal233.fits       f814w_devauc_two_comp234.fits      f814w_expdisk_res_two_comp234.fits      f814w_res_two_comp234.fits      f814w_devauc_one_comp234.fits      f814w_expdisk_res_one_comp234.fits      f814w_gal234.fits       f814w_devauc_two_comp235.fits      f814w_expdisk_res_two_comp235.fits      f814w_res_two_comp235.fits      f814w_devauc_one_comp235.fits      f814w_expdisk_res_one_comp235.fits      f814w_gal235.fits       f814w_devauc_two_comp236.fits      f814w_expdisk_res_two_comp236.fits      f814w_res_two_comp236.fits      f814w_devauc_one_comp236.fits      f814w_expdisk_res_one_comp236.fits      f814w_gal236.fits       f814w_devauc_two_comp237.fits      f814w_expdisk_res_two_comp237.fits      f814w_res_two_comp237.fits      f814w_devauc_one_comp237.fits      f814w_expdisk_res_one_comp237.fits      f814w_gal237.fits       f814w_devauc_two_comp238.fits      f814w_expdisk_res_two_comp238.fits      f814w_res_two_comp238.fits      f814w_devauc_one_comp238.fits      f814w_expdisk_res_one_comp238.fits      f814w_gal238.fits    
+
+
+
+
+Number =  238
+
+  f814w_devauc_two_comp238.fits      f814w_expdisk_res_two_comp238.fits      f814w_res_two_comp238.fits      f814w_devauc_one_comp238.fits      f814w_expdisk_res_one_comp238.fits      f814w_gal238.fits       f814w_devauc_two_comp239.fits      f814w_expdisk_res_two_comp239.fits      f814w_res_two_comp239.fits      f814w_devauc_one_comp239.fits      f814w_expdisk_res_one_comp239.fits      f814w_gal239.fits       f814w_devauc_two_comp240.fits      f814w_expdisk_res_two_comp240.fits      f814w_res_two_comp240.fits      f814w_devauc_one_comp240.fits      f814w_expdisk_res_one_comp240.fits      f814w_gal240.fits       f814w_devauc_two_comp241.fits      f814w_expdisk_res_two_comp241.fits      f814w_res_two_comp241.fits      f814w_devauc_one_comp241.fits      f814w_expdisk_res_one_comp241.fits      f814w_gal241.fits       f814w_devauc_two_comp242.fits      f814w_expdisk_res_two_comp242.fits      f814w_res_two_comp242.fits      f814w_devauc_one_comp242.fits      f814w_expdisk_res_one_comp242.fits      f814w_gal242.fits    
+
+
+
+
+Number =  244
+
+  f814w_devauc_two_comp244.fits      f814w_expdisk_res_two_comp244.fits      f814w_res_two_comp244.fits      f814w_devauc_one_comp244.fits      f814w_expdisk_res_one_comp244.fits      f814w_gal244.fits       f814w_devauc_two_comp245.fits      f814w_expdisk_res_two_comp245.fits      f814w_res_two_comp245.fits      f814w_devauc_one_comp245.fits      f814w_expdisk_res_one_comp245.fits      f814w_gal245.fits       f814w_devauc_two_comp246.fits      f814w_expdisk_res_two_comp246.fits      f814w_res_two_comp246.fits      f814w_devauc_one_comp246.fits      f814w_expdisk_res_one_comp246.fits      f814w_gal246.fits       f814w_devauc_two_comp247.fits      f814w_expdisk_res_two_comp247.fits      f814w_res_two_comp247.fits      f814w_devauc_one_comp247.fits      f814w_expdisk_res_one_comp247.fits      f814w_gal247.fits       f814w_devauc_two_comp248.fits      f814w_expdisk_res_two_comp248.fits      f814w_res_two_comp248.fits      f814w_devauc_one_comp248.fits      f814w_expdisk_res_one_comp248.fits      f814w_gal248.fits       f814w_devauc_two_comp249.fits      f814w_expdisk_res_two_comp249.fits      f814w_res_two_comp249.fits      f814w_devauc_one_comp249.fits      f814w_expdisk_res_one_comp249.fits      f814w_gal249.fits    
+
+
+
+
+Number =  249
+
+  f814w_devauc_two_comp249.fits      f814w_expdisk_res_two_comp249.fits      f814w_res_two_comp249.fits      f814w_devauc_one_comp249.fits      f814w_expdisk_res_one_comp249.fits      f814w_gal249.fits       f814w_devauc_two_comp250.fits      f814w_expdisk_res_two_comp250.fits      f814w_res_two_comp250.fits      f814w_devauc_one_comp250.fits      f814w_expdisk_res_one_comp250.fits      f814w_gal250.fits       f814w_devauc_two_comp251.fits      f814w_expdisk_res_two_comp251.fits      f814w_res_two_comp251.fits      f814w_devauc_one_comp251.fits      f814w_expdisk_res_one_comp251.fits      f814w_gal251.fits       f814w_devauc_two_comp252.fits      f814w_expdisk_res_two_comp252.fits      f814w_res_two_comp252.fits      f814w_devauc_one_comp252.fits      f814w_expdisk_res_one_comp252.fits      f814w_gal252.fits       f814w_devauc_two_comp253.fits      f814w_expdisk_res_two_comp253.fits      f814w_res_two_comp253.fits      f814w_devauc_one_comp253.fits      f814w_expdisk_res_one_comp253.fits      f814w_gal253.fits       f814w_devauc_two_comp254.fits      f814w_expdisk_res_two_comp254.fits      f814w_res_two_comp254.fits      f814w_devauc_one_comp254.fits      f814w_expdisk_res_one_comp254.fits      f814w_gal254.fits    
+
+
+
+
+Number =  254
+
+  f814w_devauc_two_comp254.fits      f814w_expdisk_res_two_comp254.fits      f814w_res_two_comp254.fits      f814w_devauc_one_comp254.fits      f814w_expdisk_res_one_comp254.fits      f814w_gal254.fits       f814w_devauc_two_comp255.fits      f814w_expdisk_res_two_comp255.fits      f814w_res_two_comp255.fits      f814w_devauc_one_comp255.fits      f814w_expdisk_res_one_comp255.fits      f814w_gal255.fits       f814w_devauc_two_comp256.fits      f814w_expdisk_res_two_comp256.fits      f814w_res_two_comp256.fits      f814w_devauc_one_comp256.fits      f814w_expdisk_res_one_comp256.fits      f814w_gal256.fits       f814w_devauc_two_comp257.fits      f814w_expdisk_res_two_comp257.fits      f814w_res_two_comp257.fits      f814w_devauc_one_comp257.fits      f814w_expdisk_res_one_comp257.fits      f814w_gal257.fits       f814w_devauc_two_comp258.fits      f814w_expdisk_res_two_comp258.fits      f814w_res_two_comp258.fits      f814w_devauc_one_comp258.fits      f814w_expdisk_res_one_comp258.fits      f814w_gal258.fits       f814w_devauc_two_comp259.fits      f814w_expdisk_res_two_comp259.fits      f814w_res_two_comp259.fits      f814w_devauc_one_comp259.fits      f814w_expdisk_res_one_comp259.fits      f814w_gal259.fits    
+
+
+
+
+Number =  259
+
+  f814w_devauc_two_comp259.fits      f814w_expdisk_res_two_comp259.fits      f814w_res_two_comp259.fits      f814w_devauc_one_comp259.fits      f814w_expdisk_res_one_comp259.fits      f814w_gal259.fits       f814w_devauc_two_comp260.fits      f814w_expdisk_res_two_comp260.fits      f814w_res_two_comp260.fits      f814w_devauc_one_comp260.fits      f814w_expdisk_res_one_comp260.fits      f814w_gal260.fits       f814w_devauc_two_comp261.fits      f814w_expdisk_res_two_comp261.fits      f814w_res_two_comp261.fits      f814w_devauc_one_comp261.fits      f814w_expdisk_res_one_comp261.fits      f814w_gal261.fits       f814w_devauc_two_comp262.fits      f814w_expdisk_res_two_comp262.fits      f814w_res_two_comp262.fits      f814w_devauc_one_comp262.fits      f814w_expdisk_res_one_comp262.fits      f814w_gal262.fits       f814w_devauc_two_comp263.fits      f814w_expdisk_res_two_comp263.fits      f814w_res_two_comp263.fits      f814w_devauc_one_comp263.fits      f814w_expdisk_res_one_comp263.fits      f814w_gal263.fits       f814w_devauc_two_comp264.fits      f814w_expdisk_res_two_comp264.fits      f814w_res_two_comp264.fits      f814w_devauc_one_comp264.fits      f814w_expdisk_res_one_comp264.fits      f814w_gal264.fits    
+
+
+
+
+Number =  264
+
+  f814w_devauc_two_comp264.fits      f814w_expdisk_res_two_comp264.fits      f814w_res_two_comp264.fits      f814w_devauc_one_comp264.fits      f814w_expdisk_res_one_comp264.fits      f814w_gal264.fits       f814w_devauc_two_comp267.fits      f814w_expdisk_res_two_comp267.fits      f814w_res_two_comp267.fits      f814w_devauc_one_comp267.fits      f814w_expdisk_res_one_comp267.fits      f814w_gal267.fits       f814w_devauc_two_comp268.fits      f814w_expdisk_res_two_comp268.fits      f814w_res_two_comp268.fits      f814w_devauc_one_comp268.fits      f814w_expdisk_res_one_comp268.fits      f814w_gal268.fits       f814w_devauc_two_comp269.fits      f814w_expdisk_res_two_comp269.fits      f814w_res_two_comp269.fits      f814w_devauc_one_comp269.fits      f814w_expdisk_res_one_comp269.fits      f814w_gal269.fits    
+
+
+
+
+Number =  271
+
+  f814w_devauc_two_comp271.fits      f814w_expdisk_res_two_comp271.fits      f814w_res_two_comp271.fits      f814w_devauc_one_comp271.fits      f814w_expdisk_res_one_comp271.fits      f814w_gal271.fits       f814w_devauc_two_comp272.fits      f814w_expdisk_res_two_comp272.fits      f814w_res_two_comp272.fits      f814w_devauc_one_comp272.fits      f814w_expdisk_res_one_comp272.fits      f814w_gal272.fits       f814w_devauc_two_comp273.fits      f814w_expdisk_res_two_comp273.fits      f814w_res_two_comp273.fits      f814w_devauc_one_comp273.fits      f814w_expdisk_res_one_comp273.fits      f814w_gal273.fits       f814w_devauc_two_comp274.fits      f814w_expdisk_res_two_comp274.fits      f814w_res_two_comp274.fits      f814w_devauc_one_comp274.fits      f814w_expdisk_res_one_comp274.fits      f814w_gal274.fits       f814w_devauc_two_comp275.fits      f814w_expdisk_res_two_comp275.fits      f814w_res_two_comp275.fits      f814w_devauc_one_comp275.fits      f814w_expdisk_res_one_comp275.fits      f814w_gal275.fits       f814w_devauc_two_comp276.fits      f814w_expdisk_res_two_comp276.fits      f814w_res_two_comp276.fits      f814w_devauc_one_comp276.fits      f814w_expdisk_res_one_comp276.fits      f814w_gal276.fits    
+
+
+
+
+Number =  276
+
+  f814w_devauc_two_comp276.fits      f814w_expdisk_res_two_comp276.fits      f814w_res_two_comp276.fits      f814w_devauc_one_comp276.fits      f814w_expdisk_res_one_comp276.fits      f814w_gal276.fits       f814w_devauc_two_comp277.fits      f814w_expdisk_res_two_comp277.fits      f814w_res_two_comp277.fits      f814w_devauc_one_comp277.fits      f814w_expdisk_res_one_comp277.fits      f814w_gal277.fits       f814w_devauc_two_comp279.fits      f814w_expdisk_res_two_comp279.fits      f814w_res_two_comp279.fits      f814w_devauc_one_comp279.fits      f814w_expdisk_res_one_comp279.fits      f814w_gal279.fits       f814w_devauc_two_comp280.fits      f814w_expdisk_res_two_comp280.fits      f814w_res_two_comp280.fits      f814w_devauc_one_comp280.fits      f814w_expdisk_res_one_comp280.fits      f814w_gal280.fits       f814w_devauc_two_comp281.fits      f814w_expdisk_res_two_comp281.fits      f814w_res_two_comp281.fits      f814w_devauc_one_comp281.fits      f814w_expdisk_res_one_comp281.fits      f814w_gal281.fits    
+
+
+
+
+Number =  282
+
+  f814w_devauc_two_comp282.fits      f814w_expdisk_res_two_comp282.fits      f814w_res_two_comp282.fits      f814w_devauc_one_comp282.fits      f814w_expdisk_res_one_comp282.fits      f814w_gal282.fits       f814w_devauc_two_comp283.fits      f814w_expdisk_res_two_comp283.fits      f814w_res_two_comp283.fits      f814w_devauc_one_comp283.fits      f814w_expdisk_res_one_comp283.fits      f814w_gal283.fits       f814w_devauc_two_comp284.fits      f814w_expdisk_res_two_comp284.fits      f814w_res_two_comp284.fits      f814w_devauc_one_comp284.fits      f814w_expdisk_res_one_comp284.fits      f814w_gal284.fits       f814w_devauc_two_comp285.fits      f814w_expdisk_res_two_comp285.fits      f814w_res_two_comp285.fits      f814w_devauc_one_comp285.fits      f814w_expdisk_res_one_comp285.fits      f814w_gal285.fits       f814w_devauc_two_comp286.fits      f814w_expdisk_res_two_comp286.fits      f814w_res_two_comp286.fits      f814w_devauc_one_comp286.fits      f814w_expdisk_res_one_comp286.fits      f814w_gal286.fits       f814w_devauc_two_comp287.fits      f814w_expdisk_res_two_comp287.fits      f814w_res_two_comp287.fits      f814w_devauc_one_comp287.fits      f814w_expdisk_res_one_comp287.fits      f814w_gal287.fits    
+
+
+
+
+Number =  287
+
+  f814w_devauc_two_comp287.fits      f814w_expdisk_res_two_comp287.fits      f814w_res_two_comp287.fits      f814w_devauc_one_comp287.fits      f814w_expdisk_res_one_comp287.fits      f814w_gal287.fits       f814w_devauc_two_comp288.fits      f814w_expdisk_res_two_comp288.fits      f814w_res_two_comp288.fits      f814w_devauc_one_comp288.fits      f814w_expdisk_res_one_comp288.fits      f814w_gal288.fits       f814w_devauc_two_comp289.fits      f814w_expdisk_res_two_comp289.fits      f814w_res_two_comp289.fits      f814w_devauc_one_comp289.fits      f814w_expdisk_res_one_comp289.fits      f814w_gal289.fits       f814w_devauc_two_comp290.fits      f814w_expdisk_res_two_comp290.fits      f814w_res_two_comp290.fits      f814w_devauc_one_comp290.fits      f814w_expdisk_res_one_comp290.fits      f814w_gal290.fits       f814w_devauc_two_comp291.fits      f814w_expdisk_res_two_comp291.fits      f814w_res_two_comp291.fits      f814w_devauc_one_comp291.fits      f814w_expdisk_res_one_comp291.fits      f814w_gal291.fits       f814w_devauc_two_comp292.fits      f814w_expdisk_res_two_comp292.fits      f814w_res_two_comp292.fits      f814w_devauc_one_comp292.fits      f814w_expdisk_res_one_comp292.fits      f814w_gal292.fits    
+
+
+
+
+Number =  292
+
+  f814w_devauc_two_comp292.fits      f814w_expdisk_res_two_comp292.fits      f814w_res_two_comp292.fits      f814w_devauc_one_comp292.fits      f814w_expdisk_res_one_comp292.fits      f814w_gal292.fits       f814w_devauc_two_comp294.fits      f814w_expdisk_res_two_comp294.fits      f814w_res_two_comp294.fits      f814w_devauc_one_comp294.fits      f814w_expdisk_res_one_comp294.fits      f814w_gal294.fits       f814w_devauc_two_comp295.fits      f814w_expdisk_res_two_comp295.fits      f814w_res_two_comp295.fits      f814w_devauc_one_comp295.fits      f814w_expdisk_res_one_comp295.fits      f814w_gal295.fits       f814w_devauc_two_comp296.fits      f814w_expdisk_res_two_comp296.fits      f814w_res_two_comp296.fits      f814w_devauc_one_comp296.fits      f814w_expdisk_res_one_comp296.fits      f814w_gal296.fits       f814w_devauc_two_comp297.fits      f814w_expdisk_res_two_comp297.fits      f814w_res_two_comp297.fits      f814w_devauc_one_comp297.fits      f814w_expdisk_res_one_comp297.fits      f814w_gal297.fits    
+
+
+
+
+Number =  298
+
+  f814w_devauc_two_comp298.fits      f814w_expdisk_res_two_comp298.fits      f814w_res_two_comp298.fits      f814w_devauc_one_comp298.fits      f814w_expdisk_res_one_comp298.fits      f814w_gal298.fits       f814w_devauc_two_comp299.fits      f814w_expdisk_res_two_comp299.fits      f814w_res_two_comp299.fits      f814w_devauc_one_comp299.fits      f814w_expdisk_res_one_comp299.fits      f814w_gal299.fits       f814w_devauc_two_comp300.fits      f814w_expdisk_res_two_comp300.fits      f814w_res_two_comp300.fits      f814w_devauc_one_comp300.fits      f814w_expdisk_res_one_comp300.fits      f814w_gal300.fits       f814w_devauc_two_comp301.fits      f814w_expdisk_res_two_comp301.fits      f814w_res_two_comp301.fits      f814w_devauc_one_comp301.fits      f814w_expdisk_res_one_comp301.fits      f814w_gal301.fits    
